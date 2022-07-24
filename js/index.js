@@ -27,6 +27,7 @@ function a() {
         main.removeChild(aa);
         nu--;
     }
+    main.focus();
 }
 nbtn.onclick = function () {
     alert("hh");
