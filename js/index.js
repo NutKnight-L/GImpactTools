@@ -12,7 +12,7 @@ function a() {
     var cc = document.createElement('input');
     aa.appendChild(cc);
     cc.type = "button";
-    cc.value = "Delete";
+    cc.value = "x";
     for (var i = 0; i < b; i++) {
         var bb = document.createElement('div');
         aa.appendChild(bb);

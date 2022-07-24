@@ -36,16 +36,17 @@
 input {
     transition: .3s;
     font-size: 20px;
-    width: 100px;
+    width: 40px;
     height: 40px;
-    border: 1px solid black;
-    margin-top: 20px;
+    /* border: 1px solid black; */
+    border: none;
     color: rgb(0, 0, 0);
     background-color: rgb(118, 203, 226);
+    border-top-left-radius: 9px;
 }
 input:hover {
     transition: .2s;
-    background-color: rgb(213, 50, 48);
+    background-color: rgba(213, 51, 48, 0.886);
     color: rgb(255, 255, 255);
     box-shadow: 0 0 5px rgb(142, 142, 142) inset;
 }
