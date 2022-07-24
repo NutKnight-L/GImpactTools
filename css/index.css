@@ -11,7 +11,7 @@
 .main {
     position: absolute;
     width: 100%;
-    background-color: aliceblue;
+    /* background-color: aliceblue; */
     display: flex;
     flex-direction: column;
     align-items: center;
