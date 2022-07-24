@@ -79,8 +79,8 @@ input:active {
 }
 
 .newWindow {
-    width: 400px;
-    height: 400px;
+    width: 90%;
+    height: 60%;
     background-color: white;
     border: 2px solid black;
     animation: newWin .3s 1;

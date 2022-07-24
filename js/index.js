@@ -51,6 +51,10 @@ abtn.onclick = function () {
         a.style.display = 'none';
         b.style.display = 'none';
     }
+    a.onclick = function(){
+        a.style.display = 'none';
+        b.style.display = 'none';
+    }
 }
 hbtn.onclick = function(){
     console.log(document.documentElement.scrollHeight);
